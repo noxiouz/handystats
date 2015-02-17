@@ -1,3 +1,10 @@
+handystats (1.12.0) unstable; urgency=low
+
+  * measuring_points: added ability to use printf-like syntax for metric name.
+  * measuring_points: handy module removed due to inability to support new printf-like syntax.
+
+ -- Danil Osherov <shindo@yandex-team.ru>  Tue, 17 Feb 2015 17:00:00 +0400
+
 handystats (1.11.0) unstable; urgency=low
 
   * config: added ability to configure metrics with patterns.
